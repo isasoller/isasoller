@@ -31,8 +31,8 @@
 
 ```text
 SYSTEM STATUS : ONLINE
-IDENTITY      : Isa Sollar
-ROLE          : Estudante de Desenvolvimento de Software
+IDENTITY      : Isa Soller
+ROLE          : Estudante iniciante de Desenvolvimento de Software
 MISSION       : Aprender, construir e evoluir através de projetos.
 ```
 
