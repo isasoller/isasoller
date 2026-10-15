@@ -17,7 +17,7 @@
 Olá! Sou **Isa Soller**, estudante de Desenvolvimento de Software e iniciante na programação. Estou aprendendo por meio de projetos acadêmicos e colocando meus conhecimentos em prática.
 
 - 🌐 **HTML e CSS:** 
-- ✨ **JavaScript:** aprendendo os fundamentos.
+- ✨ **JavaScript:** 
 - 🐘 **PHP e SQL:** desenvolvendo um organizador de tarefas acadêmicas.
 - 🐍 **Python:** estudando o básico.
 - ☕ **Java:** em aprendizado.
